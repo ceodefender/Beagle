@@ -1,0 +1,7 @@
+aiohttp
+rich
+beautifulsoup4
+python-nmap
+dnspython
+requests
+lxml
