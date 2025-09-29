@@ -1,7 +1,7 @@
 # **Beagle - Author CEO** 
 
 <p align="center">
-  <img width="650" height="200" src="https://via.placeholder.com/650x200/000000/FFFFFF?text=BEAGLE+-+AUTHOR+CEO" alt="Beagle Banner">
+  <img width="650px" height="100px" src="Icon/Banner.png">
 </p>
 
 <p align="center">
