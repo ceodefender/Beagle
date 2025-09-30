@@ -45,7 +45,7 @@
 - **SSL/TLS Inspection**: Certificate details, validity, and security analysis
 
 ### **🔒 Security & Anonymity**
-- **Tor Integration**: Anonymous scanning through Tor network
+- **Tor Integration**: Anonymous scanning through Tor network with Socks5 Proxy
 - **WAF Detection**: Cloudflare, Akamai, Imperva, and other WAF identification
 - **Firewall Analysis**: ModSecurity, Wordfence, and other firewall detection
 - **Honeypot Detection**: Identify potential deception systems
@@ -56,6 +56,7 @@
 - **JavaScript Analysis**: JS libraries, frameworks, and variable detection
 - **CSS & Assets**: Stylesheet analysis and file path mapping
 - **Behavioral Detection**: Dynamic JS execution and network behavior
+- **DDOS Protection and Detection**: Detect DDOS Protections
 
 ### **🎨 Beautiful CLI Interface**
 - **Real-time Progress**: Live progress bars and spinner animations
