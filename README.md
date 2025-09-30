@@ -328,7 +328,7 @@ If you encounter any issues or have questions:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-green">
+  <img src="https://img.shields.io/badge/Version-1.1-green">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue">
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey">
 </p>
