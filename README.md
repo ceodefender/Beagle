@@ -56,7 +56,7 @@
 - **JavaScript Analysis**: JS libraries, frameworks, and variable detection
 - **CSS & Assets**: Stylesheet analysis and file path mapping
 - **Behavioral Detection**: Dynamic JS execution and network behavior
-- **DDOS Protection and Detection**: Detect DDOS Protections
+
 
 ### **🎨 Beautiful CLI Interface**
 - **Real-time Progress**: Live progress bars and spinner animations
